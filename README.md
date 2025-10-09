@@ -1,5 +1,5 @@
-[# Ex04 Places Around Me
-## Date: 8.10.2025
+# Ex04 Places Around Me
+## Date: 9.10.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -84,4 +84,3 @@ Execute the programs and publish them.
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
-](https://github.com/mohank3437/slot/blob/main/README.md)
